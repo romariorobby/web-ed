@@ -9,5 +9,6 @@ Curated Free E-courses
 - [ ] 
 
 
-# Material
-- https://www.youtube.com/watch?v=BJu1Qcul7ig
+# Reference
+- [tailwindui](https://tailwindui.com)
+- [daisyui](https://daisyui.com)
