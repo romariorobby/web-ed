@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@700&family=Roboto:wght@500&display=swap');
+
+.jumbotron{
+    background-image: url(img/laud.jpg);
+    background-attachment: fixed;
+    color: rgb(255, 255, 255);
+    background-size: cover;
+    background-position: 0 -50px;
+    height: 450px;
+    padding-top : 5rem;
+    filter: drop-shadow(0 0 0.14rem
+    black);
+    margin: 0.100rem 0.50rem;
+}
+
+nav{
+    text-align: center;
+    padding: 2rem;
+    line-height: 1.5rem;
+    filter: drop-shadow(0 0 1rem
+    rgb(14, 2, 153));
+    margin: 0.100rem 0.50rem;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+section{
+    padding-top: 5rem;
+    
+}
+
+#buka {
+    display: inline-block;
+    padding: 2px 6px;
+    color: rgb(243, 253, 252);
+    border-radius: 1000px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 15px;
+    color: rgb(253, 254, 254);
+    background: rgb(247, 208, 36);
+    filter: drop-shadow(0 0 0.14rem
+    rgb(252, 236, 3));
+}
+
+
+#biotalaut {
+    background-image: url(img/kartuun\ ikan.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    filter: drop-shadow(0 0 0.14rem
+    rgb(30, 3, 212));
+    margin: 0.100rem 0.50rem;
+}
+
+#Biotalaut{
+    line-height: 1.5rem;
+    padding: 2rem;
+    background-color: rgb(64, 166, 220);
+    filter: drop-shadow(0 0 0.14rem
+    rgb(30, 3, 212));
+    padding-top : 2rem;
+    margin: 1.1rem 0.50rem;
+}
+
+#pengertian{
+    color : rgb(111, 113, 106);
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 3px;
+    display: inline-block;
+    padding: 10px 30px;
+    color: rgb(253, 254, 254);
+    background: rgb(10, 150, 136);
+    filter: drop-shadow(0 0 5rem
+    rgb(10, 150, 136));
+}
+
+#spesies{
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    padding: 1rem;
+    background: rgb(4, 91, 163);
+    color: rgb(253, 254, 254);
+    filter: drop-shadow(0 0 0.14rem
+    rgb(30, 3, 212));
+}
+#spesies2{
+    display: inline-block;
+    padding: 10px 30px;
+    color: rgb(243, 253, 252);
+    
+}
+
+#biota {
+    display: inline-block;
+    padding: 10px 30px;
+    color: rgb(243, 253, 252);
+}
+
+footer{
+    background-color:rgb(9, 87, 242) ;
+    text-align: center;
+    padding: 0.5rem;
+    line-height: 0.5rem ;
+    color: rgb(251, 251, 249);
+    filter: drop-shadow(0 0 0.20rem
+    rgb(51, 132, 185));
+    margin: 0.50rem 0.50rem;
+}
+footer i{
+    color: rgb(255, 255, 255);
+}
